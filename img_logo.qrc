@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>img/iconeIMC_150.png</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>img/imcIcon.ico</file>
+  </qresource>
+  <qresource prefix="login">
+    <file>img/LOGIN1.png</file>
+  </qresource>
+</RCC>
